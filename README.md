@@ -13,7 +13,6 @@ I am a Fullstack Software Engineer and I do a bunch of stuff with React/Vue, Rub
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
