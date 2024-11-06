@@ -18,3 +18,26 @@ I will endevaour to update this readme whenever I can!
   <img align="center" src="https://github-readme-stats-sepia-gamma-72.vercel.app/api/top-langs/?username=ujackson&langs_count=8&layout=donut" alt="Uyime's Top Languages" />
 </a>
 </p>
+<p align="center">
+  <a href="https://uyimejackson.com" target="_blank">
+    <img align="center" src="https://streak-stats.demolab.com/?user=ujackson&theme=great-gatsby" alt="Uyime's Streaks" />
+</a>
+</p>
+<p align="center">
+  <a href="https://uyimejackson.com" target="_blank">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ujackson&theme=lucent" alt="Uyime's github activity graph" />
+</a>
+</p>
+<p align="center">
+  <a href="https://uyimejackson.com" target="_blank">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ujackson&theme=flat&column=5&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</a>
+</p>
+
+
+
+
+
+
+
+
