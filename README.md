@@ -10,14 +10,7 @@ I am a Fullstack Software Engineer and I do a bunch of stuff with React/Vue, Rub
 
 ---
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-### 🚀 GitHub Stats
+### 🚀 My GitHub Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ujackson&color=green" alt="Profile Views" />
@@ -47,10 +40,4 @@ I am a Fullstack Software Engineer and I do a bunch of stuff with React/Vue, Rub
 </a>
 </p>
 
-
-
-
-
-
-
-
+---
