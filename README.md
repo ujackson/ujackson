@@ -6,18 +6,13 @@ I am a Fullstack Software Engineer and I do a bunch of stuff with React/Vue, Rub
 
 📫 How to reach me:
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/james_madhacks) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/jamesgeorge007)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/ogajackson) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/ujackson)
 
 ---
 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4514](https://github.com/hoppscotch/hoppscotch/pull/4514) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-2. 🗣 Commented on [#4328](https://github.com/hoppscotch/hoppscotch/issues/4328#issuecomment-2452314513) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-3. 🔒 Closed issue [#4328](https://github.com/hoppscotch/hoppscotch/issues/4328) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-4. 🗣 Commented on [#4411](https://github.com/hoppscotch/hoppscotch/issues/4411#issuecomment-2452313306) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
-5. 🔒 Closed issue [#4411](https://github.com/hoppscotch/hoppscotch/issues/4411) in [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)
 <!--END_SECTION:activity-->
 
 ---
