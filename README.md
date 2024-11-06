@@ -20,12 +20,12 @@ I will endevaour to update this readme whenever I can!
 </p>
 <p align="center">
   <a href="https://uyimejackson.com" target="_blank">
-    <img align="center" src="https://streak-stats.demolab.com/?user=ujackson&theme=great-gatsby" alt="Uyime's Streaks" />
+    <img align="center" src="https://streak-stats.demolab.com/?user=ujackson&theme=algolia" alt="Uyime's Streaks" />
 </a>
 </p>
 <p align="center">
   <a href="https://uyimejackson.com" target="_blank">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ujackson&theme=lucent" alt="Uyime's github activity graph" />
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ujackson&theme=minimal&bg_color=f8fafc" alt="Uyime's github activity graph" />
 </a>
 </p>
 <p align="center">
