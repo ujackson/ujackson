@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Uyime Jackson 👋
+
+I am a Fullstack Software Engineer and I do a bunch of stuff with React/Vue, Ruby on Rails, PHP & Laravel.
+I will endevaour to update this readme whenever when I can!
 
 <!--
 **ujackson/ujackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
