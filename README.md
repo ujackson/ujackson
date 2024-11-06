@@ -11,10 +11,10 @@ I will endevaour to update this readme whenever I can!
 </p>
 
 <p align="center">
-  <a href="https://uyimejackson.com">
+  <a href="https://uyimejackson.com" target="_blank">
   <img align="center" src="https://github-readme-stats-sepia-gamma-72.vercel.app/api?username=ujackson&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,65c7f7,0052d4&title_color=fff&text_color=fff" alt="Uyime's Github Stats" />
 </a>
-<a href="https://uyimejackson.com">
+<a href="https://uyimejackson.com" target="_blank">
   <img align="center" src="https://github-readme-stats-sepia-gamma-72.vercel.app/api/top-langs/?username=ujackson&langs_count=8&layout=donut" alt="Uyime's Top Languages" />
 </a>
 </p>
